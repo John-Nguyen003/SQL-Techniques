@@ -80,7 +80,7 @@ We are getting ready to roll out a 1 yr 5.1% APY savings account promotion for o
 ###
 <p align="center">
 Filtering Data, Date Functions, and Calculated Fields: <br/>
-<img width="373" alt="Image" src="https://github.com/user-attachments/assets/b2f6160d-e7bc-4889-880f-3779d8766898" />
+<img width="373" height="93" alt="Image" src="https://github.com/user-attachments/assets/fadd47d9-aed9-4bda-912f-085a0aa569ad" />
 <br />
 <br />
 
@@ -93,7 +93,7 @@ Our Customer Service team sends a 5 year, 10 year, 15 year, and 20 year gift to 
 ###
 <p align="center">
 Filtering Data and Date Functions: <br/>
-<img width="323" alt="Image" src="https://github.com/user-attachments/assets/2a50b9a7-701e-45be-9177-677f94b576f5" />
+<img width="323" height="93" alt="Image" src="https://github.com/user-attachments/assets/6052d65f-255f-4096-8d34-dea3a7c4b73f" />
 <br />
 <br />
 
@@ -106,7 +106,7 @@ Our Data Processing team needs a list of when all transactions batched, along wi
 ###
 <p align="center">
 Filtering Data and Date Functions: <br/>
-<img width="506" alt="Image" src="https://github.com/user-attachments/assets/b140befe-1b97-476d-8c29-6014f2cb1764" />
+<img width="506" height="122" alt="Image" src="https://github.com/user-attachments/assets/d8e575c3-0ee3-4a8e-96d3-73e8f44fe52e" />
 <br />
 <br />
 
@@ -118,7 +118,7 @@ Finance is conducting research for our upcoming Fed stress test. They are asking
 ###
 <p align="center">
 Extracting, Sorting, Limiting Data, and Calculated Fields: <br/>
-<img width="290" alt="Image" src="https://github.com/user-attachments/assets/77479544-73f5-4b08-849c-de567d3c2af5" />
+<img width="290" height="74" alt="Image" src="https://github.com/user-attachments/assets/9fcc6e23-a197-4e1d-bec8-56a1aa486187" />
 <br />
 <br />
 

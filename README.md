@@ -16,7 +16,7 @@ In preparation for success planning, the AVP of Lending is reviewing the lending
 ###
 <p align="center">
 Extracting, Sorting, and Limiting Data: <br/>
-<img width="203" alt="Image" src="https://github.com/user-attachments/assets/6890fef1-daa2-4d67-993e-a9b23dfb4a9f" />
+<img width="203" alt="Image" src=""https://github.com/user-attachments/assets/2270868a-34ef-45c5-a060-11f0eab89efa" />
 <br />
 <br />
 

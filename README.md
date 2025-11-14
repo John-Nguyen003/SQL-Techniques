@@ -42,7 +42,7 @@ The Manager’s Meetings have just concluded, and the Regional Director of Sales
 ###
 <p align="center">
 Filtering Data and Date Functions: <br/>
-<img width="400" alt="Image" src="https://github.com/user-attachments/assets/f6b2a7ab-d522-4327-b306-0510a648f79c" />
+<img width="400" height="85" alt="Image" src="https://github.com/user-attachments/assets/9d9a977a-2c7f-4654-b052-2ba61b064be2" />
 <br />
 <br />
 
@@ -55,7 +55,7 @@ It was brought to our attention that there were issues with accounts that were o
 ###
 <p align="center">
 Filtering Data and Date Functions: <br/>
-<img width="273" alt="Image" src="https://github.com/user-attachments/assets/2846b338-e025-475f-8ade-ac4fdb9c8a8a" />
+<img width="273" height="94" alt="Image" src="https://github.com/user-attachments/assets/eb4747a4-bfc6-43b1-95f3-a680872c65b1" />
 <br />
 <br />
 
@@ -68,7 +68,7 @@ The Risk Management team needs a list of customers where their last transaction 
 ###
 <p align="center">
 Extracting, Sorting, Limiting, Filtering Data, and Date Functions: <br/>
-<img width="290" alt="Image" src="https://github.com/user-attachments/assets/17bda2e1-97cf-4c85-87bb-dac203609e0c" />
+<img width="290" height="94" alt="Image" src="https://github.com/user-attachments/assets/7ca99171-af82-4024-9ba9-b69a4f02143b" />
 <br />
 <br />
 

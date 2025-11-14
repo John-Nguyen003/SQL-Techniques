@@ -16,7 +16,7 @@ In preparation for success planning, the AVP of Lending is reviewing the lending
 ###
 <p align="center">
 Extracting, Sorting, and Limiting Data: <br/>
-<img width="203" alt="Image" src=""https://github.com/user-attachments/assets/2270868a-34ef-45c5-a060-11f0eab89efa" />
+<img width="203" height="113" alt="Image" src="https://github.com/user-attachments/assets/8af1d5d7-4b42-4250-9f42-d6f39e8a58a5" />
 <br />
 <br />
 
@@ -29,7 +29,7 @@ The AVP of Lending would like to now see Personal Loans approved between $10K to
 ###
 <p align="center">
 Extracting, Sorting, and Limiting Data: <br/>
-<img width="229" alt="Image" src="https://github.com/user-attachments/assets/8629967a-0a3b-47ae-bef9-822fced5d6ab" />
+<img width="229" height="116" alt="Image" src="https://github.com/user-attachments/assets/b2507660-82f7-413f-9d30-374da60e9d6a" />
 <br />
 <br />
 

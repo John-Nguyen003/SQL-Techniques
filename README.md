@@ -130,7 +130,7 @@ For all customers who opened their savings account 20 years ago, we are depositi
 ###
 <p align="center">
 Extracting, Sorting, Limiting Data, and Calculated Fields: <br/>
-<img width="341" alt="Image" src="https://github.com/user-attachments/assets/315e1489-1329-4377-ab27-8bd350cdea03" />
+<img width="341" height="104" alt="Image" src="https://github.com/user-attachments/assets/0fdad4b2-7e38-461b-b923-dcba5373afbe" />
 <br />
 <br />
 
@@ -142,7 +142,7 @@ For all American Express customers who paid their credit card accounts late, ret
 ###
 <p align="center">
 Calculated Fields: <br/>
-<img width="461" alt="Image" src="https://github.com/user-attachments/assets/19eb3650-e1f4-48b2-8a4d-03161ae1981e" />
+<img width="461" height="143" alt="Image" src="https://github.com/user-attachments/assets/dcf42423-421a-41ce-9921-30c05429a5ff" />
 <br />
 <br />
 
@@ -154,7 +154,7 @@ For all customers who had their non-mortgage loans rejected for at least 24 mont
 ###
 <p align="center">
 Filtering Data, Date Functions, and Calculated Fields: <br/>
-<img width="389" alt="Image" src="https://github.com/user-attachments/assets/700f0d97-b5eb-4bcf-a114-448151e5acfe" />
+<img width="389" height="146" alt="Image" src="https://github.com/user-attachments/assets/f54a2348-5946-4f1a-8aaf-37f06c3da401" />
 <br />
 <br />
 
@@ -166,7 +166,7 @@ Please provide a list of customers who have given feedback. We are only interest
 ###
 <p align="center">
 Joins: <br/>
-<img width="284" alt="Image" src="https://github.com/user-attachments/assets/aabd21f7-6be3-4b93-ac0f-cafd223691f1" />
+<img width="284" height="155" alt="Image" src="https://github.com/user-attachments/assets/aa92ae3e-d150-4d3b-9cc1-6f667decd546" />
 <br />
 <br />
 
@@ -180,7 +180,7 @@ For this promotion, please ensure the list includes the following customer detai
 ###
 <p align="center">
 Joins and Calculated Fields: <br/>
-<img width="365" alt="Image" src="https://github.com/user-attachments/assets/e31d592e-831f-4720-82af-aa9e80111545" />
+<img width="365" height="143" alt="Image" src="https://github.com/user-attachments/assets/8394ee94-8073-4eba-ad69-3276bd93a109" />
 <br />
 <br />
 
@@ -192,7 +192,8 @@ Provide a list of default mortgage accounts for millennial customers located in 
 ###
 <p align="center">
 Joins: <br/>
-<img width="362" alt="Image" src="https://github.com/user-attachments/assets/81f6c01e-8fa6-44e4-83d5-b4d721dd7d12" />
+<img width="362" height="157" alt="Image" src="https://github.com/user-attachments/assets/293cff0f-fdc4-457b-b1d3-6b61b8629d40" />
+
 <br />
 <br />
 
@@ -205,7 +206,7 @@ Provide a list of non-mortgage customers who opened accounts within the last 4 y
 ###
 <p align="center">
 Joins: <br/>
-<img width="470" alt="Image" src="https://github.com/user-attachments/assets/734a08ff-89d5-41a3-91d6-05e15a5ee1e9" />
+<img width="470" height="196" alt="Image" src="https://github.com/user-attachments/assets/76b1af54-f3a8-4ed2-9add-f168d0c0309c" />
 <br />
 <br />
 

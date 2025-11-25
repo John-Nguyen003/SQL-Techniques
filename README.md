@@ -222,7 +222,7 @@ Rendering Prov - Dr. Smith (OBGYN)
 ###
 <p align="center">
 Left Joins Left Joins: <br/>
-<img width="470" height="196" alt="Image" src="https://github.com/user-attachments/assets/76b1af54-f3a8-4ed2-9add-f168d0c0309c" />
+<img width="1062" height="310" alt="Image" src="https://github.com/user-attachments/assets/cd667707-80ee-4e4b-a840-72ad36f7c28d"/>
 <br />
 <br />
 </p>

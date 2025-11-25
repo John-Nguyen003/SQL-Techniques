@@ -217,8 +217,11 @@ Billing - The provider key for the medical facility that provided the service.
 For example: Wellstar Healthcare System
 Billing Prov - Wellstar
 Rendering Prov - Dr. Smith (OBGYN)
+
+
+###
 <p align="center">
-Left Joins Left Joints: <br/>
+Left Joins Left Joins: <br/>
 <img width="470" height="196" alt="Image" src="https://github.com/user-attachments/assets/76b1af54-f3a8-4ed2-9add-f168d0c0309c" />
 <br />
 <br />

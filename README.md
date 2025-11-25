@@ -210,7 +210,7 @@ Joins: <br/>
 <br />
 <br />
 
-<h2> Advanced SQL Project 17</h2>
+<h2> Advanced SQL Project 1</h2>
 For all EDI claim submissions that were submitted with an E primary diagnosis code that took at least 30 days to be adjudicated, we need the provider who submitted these claims as long as the providers have been active with us for at least 5 years.
 Rendering - The provider key for the doctor/physician that provider the service
 Billing - The provider key for the medical facility that provided the service.
@@ -223,6 +223,17 @@ Rendering Prov - Dr. Smith (OBGYN)
 <p align="center">
 Left Joins Left Joins: <br/>
 <img width="1062" height="310" alt="Image" src="https://github.com/user-attachments/assets/cd667707-80ee-4e4b-a840-72ad36f7c28d"/>
+<br />
+<br />
+
+ <h2>Advanced SQL Project 2</h2>
+ For all Z primary diagnoses UnitedHealthcare paid claims for urgent care visits or J45 primary diagnoses Aetna paid claims for annual visits, we need to know the patient’s name and place of residence as well as their enrollment date.
+
+
+###
+<p align="center">
+Full Joins Full Joins: <br/>
+<img width="954" height="407" alt="Image" src="https://github.com/user-attachments/assets/f0933ad9-d2e6-42dc-b881-39084f1920f9" />
 <br />
 <br />
 </p>

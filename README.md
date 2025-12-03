@@ -236,4 +236,23 @@ Full Joins Full Joins: <br/>
 <img width="954" height="407" alt="Image" src="https://github.com/user-attachments/assets/f0933ad9-d2e6-42dc-b881-39084f1920f9" />
 <br />
 <br />
+
+<h2>Advanced SQL Project 3</h2>
+Part 1. Identify all applicants outside of our market who completed online registration and determine the core attributes required to analyze digital engagement. We need this for applicants who have at least a 750 credit score and reside in the Southwest region OR applicants who are not located in NY, CA, and/or HI. Your output should include:
+Member ID 
+First and Last Name  
+Method of Sign-Up 
+Credit score
+Email address 
+Part 2. Identify all customers in our market who registered in person at a physical branch location and extract the fields necessary to evaluate member engagement through face-to-face channels. We need this for individuals who have at least a 700 credit score, didn’t require a co-signer, and have had their account for at least 7 years OR customers who are younger than 65 years old who have had their account for at least 10 years. Your output should include:
+Member ID
+First and Last Name
+Method of Sign-Up (branch enrollment)
+Credit score
+Email address (if they have one on record)
+
+
+###
+<p align="center">
+Unions: <br/>
 </p>

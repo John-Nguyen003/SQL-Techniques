@@ -255,7 +255,9 @@ Email address (if they have one on record)
 
 ###
 <p align="center">
-Unions: <img width="691" height="375" alt="Image" src="https://github.com/user-attachments/assets/26f95ec9-cfaf-40b2-8e33-744610c962ed" /> 
+Unions: 
+<br/> 
+ <img width="691" height="375" alt="Image" src="https://github.com/user-attachments/assets/26f95ec9-cfaf-40b2-8e33-744610c962ed" /> 
  <br/>
 <img width="686" height="358" alt="Image" src="https://github.com/user-attachments/assets/51e6cce8-5d45-4171-a617-30b2ca70973f" />
  <br/>

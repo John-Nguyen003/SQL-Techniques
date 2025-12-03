@@ -244,6 +244,7 @@ First and Last Name
 Method of Sign-Up 
 Credit score
 Email address 
+<br/>
 Part 2. Identify all customers in our market who registered in person at a physical branch location and extract the fields necessary to evaluate member engagement through face-to-face channels. We need this for individuals who have at least a 700 credit score, didn’t require a co-signer, and have had their account for at least 7 years OR customers who are younger than 65 years old who have had their account for at least 10 years. Your output should include:
 Member ID
 First and Last Name
@@ -255,7 +256,8 @@ Email address (if they have one on record)
 ###
 <p align="center">
 Unions: <img width="691" height="375" alt="Image" src="https://github.com/user-attachments/assets/26f95ec9-cfaf-40b2-8e33-744610c962ed" /> 
+ <br/>
 <img width="686" height="358" alt="Image" src="https://github.com/user-attachments/assets/51e6cce8-5d45-4171-a617-30b2ca70973f" />
  <br/>
- <br />
+ <br/>
 </p>
